@@ -110,17 +110,17 @@ $ heroku open
 ## Lite om IDE
 En bra IDE för Javascript kostar pengar. De här är rekommenderade:
 
-###Cloud9
+####Cloud9
 https://c9.io/
 
 IDE i webbläsaren som körs i molnet. Ganska smidigt. Det finns en liten gratis plan och sen börjar priserna med $9 USD (75 kr) per månad.
 
-###WebStorm
+####WebStorm
 https://www.jetbrains.com/webstorm/
 
 Från JetBrains, så du vet vad du kan förvänta om du har använt nånting annat från JetBrains. Den är användarvänlig med avancerade funktioner, inklusive automatiserad Node.js installation, uppgradering, konfiguration och debugging. Den kostar €49 (467 kr) för personlig licens eller €99 (944 kr) för företagslicens.
 
-###Atom
+####Atom
 https://atom.io/
 
 Atom är en text editor skapade av Github. Den är ingen IDE, men väldigt kraftfull med många smidiga funktioner och plugins.
