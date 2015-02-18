@@ -124,3 +124,13 @@ Från JetBrains, så du vet vad du kan förvänta om du har använt nånting ann
 https://atom.io/
 
 Atom är en text editor skapade av Github. Den är ingen IDE, men väldigt kraftfull med många smidiga funktioner och plugins.
+
+##Annat
+De flesta Node.js programmerare verkar använda Node Inspector:
+
+
+https://github.com/node-inspector/node-inspector
+
+Tutorial för att skapa och deploya en Node.js app med MongoDB på Heroku:
+
+https://devcenter.heroku.com/articles/nodejs-mongoose
