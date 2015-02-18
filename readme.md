@@ -82,7 +82,7 @@ Starta servern på din dator (Avbryt med Ctrl + C)
 ```shell
 $ node hello.js
 ```
-Besök http://localhost:5000/
+Besök [http://localhost:5000/]
 
 ### Fixa Heroku för deployment
 Om du inte har ett Heroku konto, skapa ett här: https://www.heroku.com/
