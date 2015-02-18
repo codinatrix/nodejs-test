@@ -82,7 +82,7 @@ Starta servern på din dator (Avbryt med Ctrl + C)
 ```shell
 $ node hello.js
 ```
-Besök [http://localhost:5000/]
+Besök http://localhost:5000/
 
 ### Fixa Heroku för deployment
 Om du inte har ett Heroku konto, skapa ett här: https://www.heroku.com/
@@ -92,7 +92,7 @@ I konsolen:
 ```shell
 $ heroku login
 ```
-och skriver din login och lösenord.
+och skriv din login och lösenord.
 
 Skapa en Heroku app med
 ```shell
@@ -108,7 +108,7 @@ $ heroku open
 ```
 
 ## Lite om IDE
-En bra IDE för Javascript kostar pengar. De här är välrekommenderade:
+En bra IDE för Javascript kostar pengar. De här är rekommenderade:
 
 ###Cloud9
 https://c9.io/
@@ -118,7 +118,7 @@ IDE i webbläsaren som körs i molnet. Ganska smidigt. Det finns en liten gratis
 ###WebStorm
 https://www.jetbrains.com/webstorm/
 
-Från JetBrains, så du vet vad du kan förvänta om du har använt nånting annat från JetBrains. Den är användvänlig med avancerade funktioner, inklusiv automasierad Node.js installation, uppgradering, konfiguration och debugging. Den kostar €49 (467 kr) för personlig licens eller €99 (944 kr) för företagslicens.
+Från JetBrains, så du vet vad du kan förvänta om du har använt nånting annat från JetBrains. Den är användarvänlig med avancerade funktioner, inklusive automatiserad Node.js installation, uppgradering, konfiguration och debugging. Den kostar €49 (467 kr) för personlig licens eller €99 (944 kr) för företagslicens.
 
 ###Atom
 https://atom.io/
