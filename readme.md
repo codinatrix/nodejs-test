@@ -126,7 +126,7 @@ https://atom.io/
 Atom är en text editor skapade av Github. Den är ingen IDE, men väldigt kraftfull med många smidiga funktioner och plugins.
 
 ##Annat
-De flesta Node.js programmerare verkar använda Node Inspector:
+De flesta Node.js programmerare verkar använda Node Inspector för att debugga:
 
 
 https://github.com/node-inspector/node-inspector
