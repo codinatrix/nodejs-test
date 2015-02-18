@@ -1,5 +1,0 @@
-Ideas:
-http://todomvc.com/examples/backbone/
-Live filesharing
-
-http://www.crepido.se/projekt-lättviktig
